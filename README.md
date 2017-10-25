@@ -6,3 +6,4 @@ hotfix branch edited
 master branch checkout
 test hotfix branch
 test hotfix branch edited2
+hotfix1
